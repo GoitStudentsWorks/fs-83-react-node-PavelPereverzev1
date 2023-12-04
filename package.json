@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pavelpereverzev1.github.io/yourPets-project-front/",
+  "homepage": "https://GoitStudentsWorks.github.io/fs-83-react-node-PavelPereverzev1/",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@reduxjs/toolkit": "^1.9.7",
